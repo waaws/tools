@@ -14,6 +14,7 @@ Herramientas que usamos. Ejemplos. Casos.
 # JS
 
 - Carousel http://kenwheeler.github.io/slick/ 
+- Typing –Animation http://webflow-typer-demo.webflow.io/
 
 
 ### Frameworks
