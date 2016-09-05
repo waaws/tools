@@ -1,5 +1,8 @@
 Herramientas que usamos. Ejemplos. Casos.
 
+# Hosting de muchas librerias
+- https://cdnjs.com/
+
 # Maquetado
 
 - https://webflow.com/
