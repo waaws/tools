@@ -19,13 +19,6 @@ Herramientas que usamos. Ejemplos. Casos.
 - Carousel http://kenwheeler.github.io/slick/
 - Typing –Animation http://webflow-typer-demo.webflow.io/
 
-# JS a probar
-- http://nosir.github.io/cleave.js/
-  - Formatea un input mientras vas escribiendo dependiendo del tipo (teléfono, tarjeta de credito, etc...)
-- https://github.com/ianstormtaylor/slate - Text Editor - WYSIWYG
-- https://github.com/soyuka/dpicker - Date Picker
-- https://github.com/matthieua/WOW - Muestra elementos con animación mientras escroleas
-
 ### Frameworks
 - React
 - Angular
@@ -39,3 +32,17 @@ Herramientas que usamos. Ejemplos. Casos.
 # Generadores
 - Genera y corre app para React sin necesidad de instalar ni configurar Webpack, etc
   - https://github.com/facebookincubator/create-react-app
+
+
+# A probar
+
+### JS
+- http://nosir.github.io/cleave.js/
+  - Formatea un input mientras vas escribiendo dependiendo del tipo (teléfono, tarjeta de credito, etc...)
+- https://github.com/ianstormtaylor/slate - Text Editor - WYSIWYG
+- https://github.com/soyuka/dpicker - Date Picker
+
+
+### Animaciones 
+- https://daneden.github.io/animate.css/
+- https://github.com/matthieua/WOW - Muestra elementos con animación mientras escroleas
