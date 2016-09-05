@@ -21,6 +21,7 @@ Herramientas que usamos. Ejemplos. Casos.
   - Formatea un input mientras vas escribiendo dependiendo del tipo (teléfono, tarjeta de credito, etc...)
 - https://github.com/ianstormtaylor/slate - Text Editor - WYSIWYG
 - https://github.com/soyuka/dpicker - Date Picker
+- https://github.com/matthieua/WOW - Muestra elementos con animación mientras escroleas
 
 ### Frameworks
 - React
