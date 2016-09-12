@@ -42,6 +42,7 @@ Herramientas que usamos. Ejemplos. Casos.
   - Formatea un input mientras vas escribiendo dependiendo del tipo (teléfono, tarjeta de credito, etc...)
 - https://github.com/ianstormtaylor/slate - Text Editor - WYSIWYG
 - https://github.com/soyuka/dpicker - Date Picker
+- https://pouchdb.com/ - Browser DB
 
 ### Animaciones 
 - https://daneden.github.io/animate.css/
