@@ -43,6 +43,7 @@ Herramientas que usamos. Ejemplos. Casos.
 - https://github.com/ianstormtaylor/slate - Text Editor - WYSIWYG
 - https://github.com/soyuka/dpicker - Date Picker
 - https://pouchdb.com/ - Browser DB
+- http://fusejs.io/ - Fuzzy searchs
 
 ### Animaciones 
 - https://daneden.github.io/animate.css/
