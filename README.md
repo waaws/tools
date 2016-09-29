@@ -47,6 +47,7 @@ Herramientas que usamos. Ejemplos. Casos.
 - https://pouchdb.com/ - Browser DB
 - http://fusejs.io/ - Fuzzy searchs
 - http://leafletjs.com/2016/09/27/leaflet-1.0-final.html - Mapas optimizados para mobile
+- https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34 - Bitcoins
 
 ### Animaciones 
 - https://daneden.github.io/animate.css/
