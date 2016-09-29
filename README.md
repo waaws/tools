@@ -35,6 +35,8 @@ Herramientas que usamos. Ejemplos. Casos.
   - https://github.com/facebookincubator/create-react-app
 
 
+
+
 # A probar
 
 ### JS
@@ -44,6 +46,7 @@ Herramientas que usamos. Ejemplos. Casos.
 - https://github.com/soyuka/dpicker - Date Picker
 - https://pouchdb.com/ - Browser DB
 - http://fusejs.io/ - Fuzzy searchs
+- http://leafletjs.com/2016/09/27/leaflet-1.0-final.html - Mapas optimizados para mobile
 
 ### Animaciones 
 - https://daneden.github.io/animate.css/
