@@ -1,4 +1,6 @@
 Herramientas que usamos. Ejemplos. Casos.
+# Formato en github readme.md
+- https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # Hosting de muchas librerias
 - https://cdnjs.com/
@@ -13,12 +15,6 @@ Herramientas que usamos. Ejemplos. Casos.
 - http://orchestrate.io
 - http://firebase.com
 - https://airtable.com/
-
-
-# JS
-
-- Carousel http://kenwheeler.github.io/slick/
-- Typing –Animation http://webflow-typer-demo.webflow.io/
 
 ### Frameworks
 - React
@@ -35,8 +31,6 @@ Herramientas que usamos. Ejemplos. Casos.
   - https://github.com/facebookincubator/create-react-app
 
 
-
-
 # A probar
 
 ### JS
@@ -49,8 +43,10 @@ Herramientas que usamos. Ejemplos. Casos.
 - http://leafletjs.com/2016/09/27/leaflet-1.0-final.html - Mapas optimizados para mobile
 - https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34 - Bitcoins
 - https://dollarshaveclub.github.io/reframe.js - Resizea elementos para hacerlos responsive basandose en el contenido para elemento complicados cono `<video>` o `<iframe>`
+- Carousel http://kenwheeler.github.io/slick/
+- Typing –Animation http://webflow-typer-demo.webflow.io/
 
-### Animaciones 
+### Animaciones
 - https://daneden.github.io/animate.css/
 - https://github.com/matthieua/WOW - Muestra elementos con animación mientras escroleas
 
