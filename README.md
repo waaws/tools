@@ -46,6 +46,7 @@ Herramientas que usamos. Ejemplos. Casos.
 - Carousel http://kenwheeler.github.io/slick/
 - Typing – Animation - http://webflow-typer-demo.webflow.io/
 - Naptha - http://tesseract.projectnaptha.com/ - OCR (image to text)
+- Hyperform - https://hyperform.js.org/ - Form validation
 
 ### Animaciones
 - https://daneden.github.io/animate.css/
