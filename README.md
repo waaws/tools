@@ -44,7 +44,8 @@ Herramientas que usamos. Ejemplos. Casos.
 - https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34 - Bitcoins
 - https://dollarshaveclub.github.io/reframe.js - Resizea elementos para hacerlos responsive basandose en el contenido para elemento complicados cono `<video>` o `<iframe>`
 - Carousel http://kenwheeler.github.io/slick/
-- Typing –Animation http://webflow-typer-demo.webflow.io/
+- Typing – Animation - http://webflow-typer-demo.webflow.io/
+- Naptha - http://tesseract.projectnaptha.com/ - OCR (image to text)
 
 ### Animaciones
 - https://daneden.github.io/animate.css/
