@@ -47,6 +47,7 @@ Herramientas que usamos. Ejemplos. Casos.
 - Typing – Animation - http://webflow-typer-demo.webflow.io/
 - Naptha - http://tesseract.projectnaptha.com/ - OCR (image to text)
 - Hyperform - https://hyperform.js.org/ - Form validation
+- gDocs - Usar google drive como CMS - http://jadeallencook.github.io/gDoc.js
 
 ### Animaciones
 - https://daneden.github.io/animate.css/
